@@ -1,2 +1,4 @@
 # VoiceAssistant
-I coded this wonderful Voice Assistant. Which make your work easy. You can easily open various programs and website by giving specch command. Setup is also easy. Leave a star if you like this code :)
+Thanks if you used this code. Don't forget to like this project
+Don't forget to subscribe to our YT channel @techyperry_
+******************PEACE-OUT******************
