@@ -9,6 +9,6 @@ Many projects are coming soon so be ready!!!!.You can also modify this code by y
 
 https://youtu.be/qJJwv3h-P3Q
 
-**BANNER**
+**********@techyperry**********
 
-![20220924_161910](https://user-images.githubusercontent.com/109096437/234526831-48fc0deb-f79e-424d-99a2-7da63fc0e10a.jpg)
+![20220924_161910](https://user-images.githubusercontent.com/109096437/234531163-9795e7d2-4737-4513-afc3-6b48926bee8f.jpg)
