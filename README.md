@@ -12,4 +12,5 @@ https://youtu.be/qJJwv3h-P3Q
 @Techy Perry
 
 
-https://user-images.githubusercontent.com/109096437/235109162-b9789815-7723-497c-8635-cc3370d55924.jpg
+![20220924_161910](https://user-images.githubusercontent.com/109096437/235109525-68cf9556-a146-4755-98d6-ba67a7bc71cf.jpg)
+
