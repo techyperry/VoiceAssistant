@@ -9,6 +9,7 @@ Many projects are coming soon so be ready!!!!.You can also modify this code by y
 
 https://youtu.be/qJJwv3h-P3Q
 
-**********@techyperry**********
+@Techy Perry
 
-![20220924_161910](https://user-images.githubusercontent.com/109096437/234531163-9795e7d2-4737-4513-afc3-6b48926bee8f.jpg)
+
+https://user-images.githubusercontent.com/109096437/235109162-b9789815-7723-497c-8635-cc3370d55924.jpg
