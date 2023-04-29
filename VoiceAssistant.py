@@ -1,11 +1,10 @@
 import pyttsx3 #pip install pyttsx3
 import speech_recognition as sr #pip install speechRecognition
-import datetime
 import wikipedia #pip install wikipedia
-import webbrowser
-import os
-import smtplib
-import pyfiglet
+import datetime #pip install datetime
+import os #pip install os
+import webbrowser #pip install webbrowser
+import pyfiglet #pip install pyfiglet        #if you face any problem email me at perrythehackerrr@gmail.com
 
 print(pyfiglet.figlet_format("VOICE ASSISTANT"))
 print("CODED BY - PARTH SHARMA YT - @techyperry_ INSTA - parth._.sharma8")
@@ -107,6 +106,7 @@ if __name__ == "__main__":
             os.startfile(codePath)
 
         elif 'open notepad' in query:
+            speak("opening notepad")
             os.startfile("notepad.exe")
 
         elif 'shutdown pc' in query:
@@ -130,12 +130,12 @@ if __name__ == "__main__":
             speak("no i am smarter than them")
 
         elif 'what is your name' in query:
-            speak("i am robert the personal voice assistant!")
+            speak("i am  the personal voice assistant!") # give any name you like
 
         elif 'what is your aim' in query:
             speak("to make you happy sir")
 
-       #you can also add more commands like "speak jaihind"
+       #you can also add more command like 'you are good'
 
 
 
