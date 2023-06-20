@@ -7,7 +7,7 @@ import webbrowser #pip install webbrowser
 import pyfiglet #pip install pyfiglet        #if you face any problem email me at perrythehackerrr@gmail.com
 
 print(pyfiglet.figlet_format("VOICE ASSISTANT"))
-print("CODED BY - PARTH SHARMA YT - @techyperry_ INSTA - parth._.sharma8")
+print("CODED BY - PARTH SHARMA YT - @techyperry_ INSTA - iparthsharma_")
 
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
